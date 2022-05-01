@@ -1,2 +1,2 @@
-# ci-reactjs-yarn-firebase
-CI Image for build reactjs project using Yarn, typescript and firebase tools
+# jega/heroku-cli
+Heroku Command Line image for  CI&CD tasks.
